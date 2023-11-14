@@ -1,0 +1,28 @@
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.pdb
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe.config
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.pdb
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.AssemblyReference.cache
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.exe
+C:\Users\menge\Downloads\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe.config
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.pdb
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.exe
+C:\Users\angel\OneDrive\Desktop\Prog. 2\Práctico - 2 (Automotora)\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.pdb
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe.config
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.exe
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\bin\Debug\PRACTICA 2.pdb
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.AssemblyReference.cache
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.exe
+C:\Users\menge\Documents\ANALISTA PROGRAMADOR\2do semestre\Programacion 2\1_ PRACTICA 2\PRACTICA 2\PRACTICA 2\obj\Debug\PRACTICA 2.pdb
