@@ -148,7 +148,7 @@ namespace PRACTICA_2
                         Console.Clear();
                         Console.WriteLine("Lista de todos los vehículos disponibles para alquilar: \n");
                         Sucursal1.mostrarVehiculosDisponibles(Sucursal1.getVehiculos());
-                        List<Vehiculo> VehiculosSeleccionados = new List<Vehiculo>(); //se crea una lista vacía para agregar los vehículos que se van a alquilar
+                        List<Vehiculo> VehiculosSeleccionados = new List<Vehiculo>(); 
                         int costoVehiculo = 0;
                         int cantidadVehiculos = 0;
                         string entrada1;
