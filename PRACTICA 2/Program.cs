@@ -22,7 +22,7 @@ namespace PRACTICA_2
             Familiar familiar2 = new Familiar(05, "CEI004", "Hyundai", "Azul", 80, false, 300, 16, 500);
             Familiar familiar3 = new Familiar(06, "CEI004", "Suzuki", "Blanco", 50, true, 200, 15, 350);
 
-            Utilitario utilitario1 = new Utilitario(07, "CEI007", "JAC", "Blanco", 100, true, 500, 15, 2000); //true = disponible  false = alquilado
+            Utilitario utilitario1 = new Utilitario(07, "CEI007", "JAC", "Blanco", 100, true, 500, 15, 2000); 
             Utilitario utilitario2 = new Utilitario(08, "CEI008", "Nissan", "Azul", 90, false, 700, 12, 1800);
             Utilitario utilitario3 = new Utilitario(09, "CEI009", "Toyota", "Verde", 80, true, 600, 11, 2100);
 
