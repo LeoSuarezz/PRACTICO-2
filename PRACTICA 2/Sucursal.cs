@@ -158,10 +158,10 @@ namespace PRACTICA_2
             listaAlquileres.Add(alquiler);
         }
 
-        //Buscar por cliente 
+       
         public List<Alquiler> DarAlquileresPorDocumento(int documento)
         {
-            //Se crea una lista para ir guardando si coinciden
+            
             List<Alquiler> colAlquileresCliente = new List<Alquiler>();
             foreach (Alquiler item in this.listaAlquileres)
             {              
